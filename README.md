@@ -6,7 +6,7 @@ Alexandr Yarashevich: aly48@pitt.edu
 
 Kathetrine Lin:
 
-Armon Ganjavian: 
+Armon Ganjavian: amg506@pitt.edu
 
 # Datasets:
 1. 
