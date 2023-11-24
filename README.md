@@ -4,7 +4,7 @@ TBD
 # Members:
 Alexandr Yarashevich: aly48@pitt.edu 
 
-Kathetrine Lin:
+Kathetrine Lin: ksl72@pitt.edu
 
 Armon Ganjavian: amg506@pitt.edu
 
