@@ -17,6 +17,12 @@ The set is detailing crime incident data after it has been transformed to meet U
 
 The set details POGOH station locations from October 2023 by latitude and longitude
 
+3. Arrests (link: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f)
+
+This data set describes information on arrests that have taken place within the city of Pittsburgh, including the neighborhood where each arrest occurred.
+
+4. 
+
 
 # Overview:
 
