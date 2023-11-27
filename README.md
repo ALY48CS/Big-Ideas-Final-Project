@@ -21,9 +21,13 @@ The set details POGOH station locations from October 2023 by latitude and longit
 
 This data set describes information on arrests that have taken place within the city of Pittsburgh, including the neighborhood where each arrest occurred.
 
-4. 
+4. Trees(https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da)
 
+This set plots all the trees in Pittsburgh and their locations by neighborhood. 
 
+6. Smart Trashcans (https://data.wprdc.org/dataset/smart-trash-containers/resource/75b83ac9-8069-4cf1-bcc3-b9e6b04487d9)
+
+This data set shows all the smart trashcans in Pittsburgh and the neighboorhood they are located in.
 # Overview:
 
 
