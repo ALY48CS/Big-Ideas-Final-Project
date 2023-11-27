@@ -12,6 +12,9 @@ Armon Ganjavian: amg506@pitt.edu
 1. Blotter Data (link: https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e)
 
 The set is detailing crime incident data after it has been transformed to meet UCR (Uniform Crime Reporting) standards from 2016 until 2023 which can be accounted by neighborhood
+(NOTE: this data set was too large to submit through the GitHub file upload through the browser and when using other methods such as git lfs and console commands to upload the file 
+a portion of it was cut off. The data in the jupyter notebooks contains the full data set but if this repository was copied directly please keep that in mind. All of the code that 
+uses that data set was devolped independently so it should all still run correctly, but there might be a slight change in values.)
 
 2. Arrests (link: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f)
 
