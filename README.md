@@ -1,5 +1,5 @@
 # Team: 
-
+Jupyter>GitHub
 
 # Members:
 Alexandr Yarashevich: aly48@pitt.edu 
@@ -22,5 +22,5 @@ This data set describes information on arrests that have taken place within the 
 This set plots all the trees in Pittsburgh and their locations by neighborhood. 
 
 # Overview:
-
+Using data sets provided by WPRDC and our own subjective metrics of danger, police efficiency, and the environment we will be making an argument as to why one neighborhood could be considered the best in Pittsburgh
 
