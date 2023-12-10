@@ -1,12 +1,14 @@
 # Team: 
 Jupyter>GitHub
 
+Final Project 16
+
 # Members:
-Alexandr Yarashevich: aly48@pitt.edu 
+Alexandr Yarashevich: aly48@pitt.edu (Notebook: aly48-private-notebook.ipynb)
 
-Kathetrine Lin: ksl72@pitt.edu
+Kathetrine Lin: ksl72@pitt.edu (Notebook: ksl72-lab-1.ipynb)
 
-Armon Ganjavian: amg506@pitt.edu
+Armon Ganjavian: amg506@pitt.edu (Notebook: amg506-notebook.ipynb)
 
 # Datasets:
 1. Blotter Data (link: https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e)
